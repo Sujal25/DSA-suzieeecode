@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
+| [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
@@ -68,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
