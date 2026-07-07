@@ -85,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0127-word-ladder) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
