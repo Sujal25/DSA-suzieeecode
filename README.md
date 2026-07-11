@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0127-word-ladder) |
+| [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
