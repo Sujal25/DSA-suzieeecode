@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0127-word-ladder) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
