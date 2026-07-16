@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
