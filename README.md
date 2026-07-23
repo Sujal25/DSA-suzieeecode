@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
