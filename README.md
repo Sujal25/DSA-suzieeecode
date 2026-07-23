@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -200,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0099-recover-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
