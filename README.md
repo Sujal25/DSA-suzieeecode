@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0088-merge-sorted-array) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
