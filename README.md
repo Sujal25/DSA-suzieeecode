@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0238-product-of-array-except-self) |
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0238-product-of-array-except-self) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Database
