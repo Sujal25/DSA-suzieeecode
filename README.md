@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1291-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
