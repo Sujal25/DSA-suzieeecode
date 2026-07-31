@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3583-count-special-triplets) |
 ## String
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3583-count-special-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3583-count-special-triplets) |
 ## Design
 |  |
