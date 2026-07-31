@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -296,11 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Counting
 |  |
 | ------- |
