@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0238-product-of-array-except-self) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
