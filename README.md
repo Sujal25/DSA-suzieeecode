@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0072-edit-distance) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
