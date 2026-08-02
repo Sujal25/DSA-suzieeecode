@@ -23,7 +23,7 @@ int win(int i,int j,vector<int>&p,vector<vector<int>>&dp){
     bool stoneGame(vector<int>& piles) {
         int n=piles.size();
         vector<vector<int>> dp(n,vector<int>(n,-1));
-       return win(0,n-1,piles,dp); 
+       return true; 
     }
 };
 //a nd b play 
