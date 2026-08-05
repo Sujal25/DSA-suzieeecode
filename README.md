@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
+| [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0135-candy) |
+| [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
