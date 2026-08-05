@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
