@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
