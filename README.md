@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
