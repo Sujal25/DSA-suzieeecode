@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3310-remove-methods-from-project](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3310-remove-methods-from-project) |
 ## Sorting
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3310-remove-methods-from-project](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
