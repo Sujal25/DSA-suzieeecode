@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3310-remove-methods-from-project](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3310-remove-methods-from-project) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3310-remove-methods-from-project](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3310-remove-methods-from-project) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [3310-remove-methods-from-project](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -447,4 +451,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
