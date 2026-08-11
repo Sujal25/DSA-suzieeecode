@@ -1,24 +1,17 @@
 class Solution {
 public:
     int missingInteger(vector<int>& nums) {
-        int n = nums.size();
-        
-        unordered_set<int>st;
-        
-        for(int i:nums){
-            st.insert(i);
-        }
+         unordered_map<int,int> mp;
+        for(int x:nums) mp[x]++;
+        int ans=nums[0];
+        for(int i=1;i<nums.size();i++){
 
-        int sum = nums[0];
-        for(int i = 1;i<n;i++){
-            if(nums[i] != nums[i-1]+1)  break;
-            sum += nums[i];
+             if(nums[i]==nums[i-1]+1) ans+=nums[i];
+                else break;
+            
         }
-
-        while(st.count(sum)){
-            sum++;
-        }
-        return sum;
+        while(mp.find(ans)!=mp.end()) ans++;
+        return ans;
     }
 };
 //smallest int greater then sum 
