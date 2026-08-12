@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Interactive
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3583-count-special-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3583-count-special-triplets) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
