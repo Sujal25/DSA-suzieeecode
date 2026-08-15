@@ -12,11 +12,11 @@ public:
                 i++;
                 
             }
-           len+=i;
+           len+=(j-i)+1;
             j++;
             
         }
         int p=nums.size();
-return p*(p+1)/2-len;
+return len;
     }
 };
