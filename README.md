@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -547,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
