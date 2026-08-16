@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Math
