@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1615-maximal-network-rank](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1615-maximal-network-rank) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2360-longest-cycle-in-a-graph) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
