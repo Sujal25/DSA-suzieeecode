@@ -11,40 +11,36 @@
  */
 class Solution {
 public:
-void make(TreeNode* r,vector<vector<int>>&adj){
+vector<vector<int>> adj = vector<vector<int>>(1e5+1);
+void make(TreeNode* r){
     if(!r) return;
-    if(r->left) {adj[r->val].push_back(r->left->val);
+    if(r->left){ adj[r->val].push_back(r->left->val);
      adj[r->left->val].push_back(r->val);
-    
-     }
-     if(r->right){
-        adj[r->val].push_back(r->right->val);
-     adj[r->right->val].push_back(r->val);
-    
-     }
-      make(r->left,adj);
-       make(r->right,adj);
+    }
+    if(r->right) {adj[r->val].push_back(r->right->val);
+    adj[r->right->val].push_back(r->val);
+    }
+    make(r->left);
+make(r->right);
+}
+void dfs(vector<int>&vis,vector<int>&dist,int d,int i){
+    vis[i]=1;
+    dist[i]=d;
+    for(auto ng:adj[i]){
+        if(!vis[ng]){
+
+            dfs(vis,dist,d+1,ng);
+        }
+    }
+
 }
     int amountOfTime(TreeNode* root, int start) {
-        vector<vector<int>> adj(100001);
-        make(root,adj);
-        vector<int> dist(100001,-1);
-        queue<int> qt;
-        dist[start]=0;
-        qt.push(start);
-        while(!qt.empty()){
-            int n=qt.front();
-            qt.pop();
-            for(int ng:adj[n]){
-                if(dist[ng]==-1){
-                    dist[ng]=dist[n]+1;
-                    qt.push(ng);
+        make(root);
+        vector<int> dist(1e5+1,0);
+        vector<int> vis(1e5+1,0);
 
-                }
-            }
-        }
-        return *max_element(dist.begin(),dist.end());
+dfs(vis,dist,0,start);
+return *max_element(dist.begin(),dist.end());
 
     }
 };
-//first tree to graph then logest path woth each wt 1 is the asnwer 
