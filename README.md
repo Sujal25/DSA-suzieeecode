@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
+| [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
+| [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1615-maximal-network-rank](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1615-maximal-network-rank) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -287,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
+| [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Minimum Spanning Tree
