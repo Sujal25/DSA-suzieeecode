@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1361-validate-binary-tree-nodes) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0785-is-graph-bipartite) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0508-most-frequent-subtree-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
