@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1260-shift-2d-grid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 ## Breadth-First Search
 |  |
