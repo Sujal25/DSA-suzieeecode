@@ -4,7 +4,7 @@ public:
         int mini=INT_MAX;
         int profit=0;
         //n^2 complexity
-        for(int i=0;i<prices.size()-1;i++){
+        for(int i=0;i<prices.size();i++){
             if(prices[i]<mini)
             mini=prices[i];
             else 
