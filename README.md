@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0198-house-robber) |
+| [0343-integer-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
+| [0343-integer-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
