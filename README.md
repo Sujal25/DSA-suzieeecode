@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Enumeration
