@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
+| [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0221-maximal-square) |
 | [0343-integer-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0343-integer-break) |
+| [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
+| [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0257-binary-tree-paths) |
+| [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0508-most-frequent-subtree-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0257-binary-tree-paths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
+| [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -659,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0139-word-break) |
+| [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 ## Memoization
 |  |
 | ------- |
