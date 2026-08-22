@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
