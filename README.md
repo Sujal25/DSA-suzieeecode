@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -688,11 +691,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Trie
 |  |
