@@ -10,35 +10,30 @@
  * };
  */
 class Solution {
-public:vector<vector<int>> ans;
-int tr;
-void add(TreeNode* root, int tsum,vector<int>&a){
-    if(root==NULL) return;
-
-    if(root->left==NULL&&root->right==NULL){
-        if(tsum+root->val==tr){
-            a.push_back(root->val);
-            ans.push_back(a);
-            a.pop_back();
-
-        }           
+public:
+vector<vector<int>> ans;
+int tar;
+void psum(TreeNode* r,vector<int>&a,int sum){
+    if(!r) return;
+    if(r->left==NULL&&r->right==NULL){
+        if(sum+r->val==tar){
+        a.push_back(r->val);
+         ans.push_back(a);
+         a.pop_back();}
          return;
-        
+       
     }
-
-        a.push_back(root->val);
-        add(root->left,tsum+root->val,a);
-
-        add(root->right,tsum+root->val,a);
-        a.pop_back();
-        
+    a.push_back(r->val);
+    psum(r->left,a,sum+r->val);
+    psum(r->right,a,sum+r->val);
+    a.pop_back();
     
-
+    
 }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        tr=targetSum;
+        tar=targetSum;
         vector<int> a;
-add(root,0,a);
-return ans;
+        psum(root,a,0);
+        return ans;
     }
 };
