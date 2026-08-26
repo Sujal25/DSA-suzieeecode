@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0713-subarray-product-less-than-k) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
 ## Randomized
