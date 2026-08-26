@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
