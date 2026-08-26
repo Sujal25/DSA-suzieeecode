@@ -743,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2305-fair-distribution-of-cookies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
