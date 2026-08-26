@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0713-subarray-product-less-than-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 ## Kosaraju's Algorithm
