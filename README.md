@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0707-design-linked-list) |
 ## Merge Sort
 |  |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
