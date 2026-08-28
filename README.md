@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
