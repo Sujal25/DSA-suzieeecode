@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0707-design-linked-list) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
 ## Graph Coloring
 |  |
