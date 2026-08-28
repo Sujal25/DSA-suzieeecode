@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
@@ -599,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
