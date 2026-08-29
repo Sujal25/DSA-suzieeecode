@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
