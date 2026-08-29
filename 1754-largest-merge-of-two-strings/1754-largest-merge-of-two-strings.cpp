@@ -35,28 +35,39 @@ void merge(string&w1,string&w2,int i,int j,string m){
 }
     string largestMerge(string word1, string word2) {
        // merge(word1,word2,0,0,"");
-  
-        
-        string a = "";
-    int i = 0, j = 0;
-
-    while (i < word1.size() && j < word2.size()) {
-        if (word1.substr(i) > word2.substr(j)) {
-            a += word1[i++];
-        } else {
-            a += word2[j++];
+        string a="";
+        int i=0;
+        int j=0;
+        while(i<word1.size()&&j<word2.size()){
+            if(word1[i]<word2[j]) {a+=word2[j];
+            j++;}
+            else if(word1[i]>word2[j]) {a+=word1[i];
+            i++;}
+            else {
+                //when both equal 
+                int p=i;
+                int q=j;
+                while(p<word1.size()&&q<word2.size()){
+                    if(word1[p]==word2[q]){
+                    p++;
+                    q++;}
+                    else break;
+                }
+                if(word1[p]>word2[q]) {a+=word1[i];
+            i++;}
+            else {a+=word2[j];
+            j++;}
+            }
         }
-    }
-
-    while (i < word1.size()) {
-        a += word1[i++];
-    }
-
-    while (j < word2.size()) {
-        a += word2[j++];
-    }
-
-    return a;
-       
+        while(i<word1.size()){
+            a+=word1[i];
+            i++;
+        }
+        
+        while(j<word2.size()){
+            a+=word2[j];
+            j++;
+        }
+        return a;
     }
 };
