@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1626-best-team-with-no-conflicts) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1382-balance-a-binary-search-tree) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0229-majority-element-ii) |
 | [1054-distant-barcodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1054-distant-barcodes) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
