@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2305-fair-distribution-of-cookies) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
