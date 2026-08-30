@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-best-team-with-no-conflicts](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1626-best-team-with-no-conflicts) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2091-removing-minimum-and-maximum-from-array) |
