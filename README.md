@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1480-running-sum-of-1d-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0713-subarray-product-less-than-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1480-running-sum-of-1d-array) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -707,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
 | ------- |
@@ -878,4 +882,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0881-boats-to-save-people) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
