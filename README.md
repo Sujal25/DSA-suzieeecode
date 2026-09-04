@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2305-fair-distribution-of-cookies) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
