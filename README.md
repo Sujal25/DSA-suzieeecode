@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0940-distinct-subsequences-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
