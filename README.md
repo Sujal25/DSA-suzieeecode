@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3583-count-special-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3583-count-special-triplets) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3583-count-special-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3583-count-special-triplets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
