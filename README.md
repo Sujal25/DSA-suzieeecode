@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
