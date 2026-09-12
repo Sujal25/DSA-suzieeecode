@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3536-maximum-product-of-two-digits) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3814-maximum-capacity-within-budget) |
