@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0835-image-overlap](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0912-sort-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1301-number-of-paths-with-max-score) |
