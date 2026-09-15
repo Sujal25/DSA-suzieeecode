@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2008-maximum-earnings-from-taxi) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2305-fair-distribution-of-cookies) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3814-maximum-capacity-within-budget) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
