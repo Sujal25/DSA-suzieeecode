@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bitmask
 |  |
 | ------- |
