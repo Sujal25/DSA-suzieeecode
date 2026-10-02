@@ -1,30 +1,27 @@
 class Solution {
-public:vector<string> ans;
-void para(string&s,int n,stack<char>&st){
-    if(n==0){
-        if(st.empty())
-        ans.push_back(s);
+public:
+vector<string> ans;
+void genpen(string s,int sz,stack<char>&st){
+    if(sz==0){
+        if(st.empty()) ans.push_back(s);
         return;
     }
-    if(!st.empty()){
-        s.push_back(')');
-        st.pop();
-        para(s,n-1,st);
-        s.pop_back();
+    if(st.size()<sz){
+        //(
         st.push('(');
+        genpen(s+'(',sz-1,st);
+        st.pop();
     }
-    s.push_back('(');
-    st.push('(');
-    para(s,n-1,st);
-    st.pop();
-    s.pop_back();
-
+    if(!st.empty()){
+        st.pop();
+        genpen(s+')',sz-1,st);
+        st.push(')');
+    }
 }
-//stack push every ( and if on top (  then can push ) in str and also pop from stack 
     vector<string> generateParenthesis(int n) {
         stack<char> st;
-        string k="";
-        para(k,n*2,st);
+        string sp="";
+        genpen(sp,n*2,st);
         return ans;
     }
 };
