@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0494-target-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0436-find-right-interval) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
 | [0502-ipo](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0729-my-calendar-i) |
