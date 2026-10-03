@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0046-permutations) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0287-find-the-duplicate-number) |
