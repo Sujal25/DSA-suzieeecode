@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0299-bulls-and-cows) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0472-concatenated-words) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0299-bulls-and-cows) |
 | [1054-distant-barcodes](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1054-distant-barcodes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
