@@ -1,53 +1,30 @@
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        
-unordered_map<string, vector<string>> mp;
-
-for (string s : strs) {
-    string key = s;
-    sort(key.begin(), key.end());
-    mp[key].push_back(s);
-    }
-    vector<vector<string>> st;
-    for(auto &m:mp) st.push_back(m.second);
-    return st;
-    }
-};
-/*class Solution {
-public:
-bool chk(string s,string p){
-    unordered_map<char,int> mp;
-    if(s.size()!=p.size()) return false;
-    for(char c:s) mp[c]++;
-    for(char c:p){
-        if(!mp.count(c)) return false;
-        mp[c]--;
-        if (mp[c]<0) return false;
-    }
-    return true;
-}
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        vector<vector<string>> st;
-        for(int i=0;i<strs.size();i++){
-            if(strs[i]=="") continue;
-            vector<string> s;
-            s.push_back(strs[i]);
-            for(int j=i+1;j<strs.size();j++){
-                if(chk(strs[i],strs[j])) {
-                    s.push_back(strs[j]);
-                    strs[j]="";
-                }
-            }
-            st.push_back(s);
+      unordered_map<char,int> mp;  
+      vector<pair<string,string>> mk;
+      for(auto s:strs){
+        string p=s;
+        sort(p.begin(),p.end());
+        mk.push_back({p,s});
+      }
+      sort(mk.begin(),mk.end());
+      vector<vector<string>> kt;
+      vector<string> k;
+      string l=mk[0].first;
+      for(int i=0;i<mk.size();i++){
+        if(l==mk[i].first){
+            k.push_back(mk[i].second);
         }
-        return st;
+        else{
+            kt.push_back(k);
+            l=mk[i].first;
+            k.clear();
+             k.push_back(mk[i].second);
+        }
+      }
+       kt.push_back(k);
+      return kt;
     }
 };
-unordered_map<string, vector<string>> mp;
-
-for (string s : strs) {
-    string key = s;
-    sort(key.begin(), key.end());
-    mp[key].push_back(s);
-}*/
+//
