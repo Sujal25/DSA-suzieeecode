@@ -1,20 +1,19 @@
 class MinStack {
 public:stack<int> st;
 multiset<int> mt;
+
     MinStack() {
         
     }
     
     void push(int value) {
-        st.push(value);
         mt.insert(value);
+        st.push(value);
     }
     
     void pop() {
-        int k=st.top();
+        mt.erase(mt.find(st.top()));
         st.pop();
-        
-        mt.erase(mt.find(k));
     }
     
     int top() {
