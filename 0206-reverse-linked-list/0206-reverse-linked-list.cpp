@@ -10,15 +10,13 @@
  */
 class Solution {
 public:
-ListNode* revll(ListNode* h){
-    if(!h||!h->next) return h;
-    ListNode* k=revll(h->next);
-    h->next->next=h;
-    h->next=NULL;
-    return k;
-
-}
     ListNode* reverseList(ListNode* head) {
-       return revll(head); 
+        if(!head||!head->next) return head;
+        
+        ListNode* k=reverseList(head->next);
+        head->next->next=head;
+        head->next=NULL;
+        return k;
+
     }
 };
