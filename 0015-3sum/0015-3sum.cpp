@@ -1,21 +1,44 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        unordered_map<int,int> mp;
-        sort(nums.begin(),nums.end());
-        set<vector<int>> st;
         vector<vector<int>> ans;
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                
-                if(mp.count(-nums[i]-nums[j])) st.insert({nums[i],nums[j],-(nums[i]+nums[j])});
 
+        sort(nums.begin(), nums.end());
+
+        for (int i = 0; i < nums.size() - 2; i++) {
+
+            // Skip duplicate first elements
+            if (i > 0 && nums[i] == nums[i - 1])
+                continue;
+
+            int l = i + 1;
+            int r = nums.size() - 1;
+
+            while (l < r) {
+                int sum = nums[i] + nums[l] + nums[r];
+
+                if (sum == 0) {
+                    ans.push_back({nums[i], nums[l], nums[r]});
+
+                    // Skip duplicates
+                    while (l < r && nums[l] == nums[l + 1])
+                        l++;
+
+                    while (l < r && nums[r] == nums[r - 1])
+                        r--;
+
+                    l++;
+                    r--;
+                }
+                else if (sum < 0) {
+                    l++;
+                }
+                else {
+                    r--;
+                }
             }
-            mp[nums[i]]++;
         }
-        for(auto &s:st){
-            ans.push_back(s);
-        }
+
         return ans;
     }
 };
