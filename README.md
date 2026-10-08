@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1143-longest-common-subsequence) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bitmask
 |  |
