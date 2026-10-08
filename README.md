@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2055-plates-between-candles](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2055-plates-between-candles) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1048-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3814-maximum-capacity-within-budget) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1754-largest-merge-of-two-strings](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1754-largest-merge-of-two-strings) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -946,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal25/DSA-suzieeecode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bitmask
 |  |
 | ------- |
