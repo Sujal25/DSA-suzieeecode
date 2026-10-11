@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2952-minimum-number-of-coins-to-be-added](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2952-minimum-number-of-coins-to-be-added) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/1534-count-good-triplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sujal25/DSA-suzieeecode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3499-maximize-active-section-with-trade-i) |
