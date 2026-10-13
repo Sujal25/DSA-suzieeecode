@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3583-count-special-triplets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3814-maximum-capacity-within-budget) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3814-maximum-capacity-within-budget](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3814-maximum-capacity-within-budget) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Sujal25/DSA-suzieeecode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Bit Manipulation
 |  |
